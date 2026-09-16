@@ -50,3 +50,9 @@ SowEasy helps plant lovers stay organized and never miss an important care task.
 - Simple and intuitive interface
 - Fast and lightweight application
 - Designed for plant lovers of all experience levels
+
+Download SowEasy from the App Store:
+
+🍎 App Store: https://apps.apple.com/us/app/soweasy/id6740537233
+
+<img width="829" height="343" alt="WhatsApp Image 2026-09-16 at 3 00 14 PM" src="https://github.com/user-attachments/assets/32dcf7ed-1b62-4b4f-8b2a-ec65b024cac3" />
